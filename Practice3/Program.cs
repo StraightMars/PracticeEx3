@@ -10,6 +10,7 @@ namespace Practice3
     {
         static void Main(string[] args)
         {
+            //+test
             bool ok;
             double x, y;
             bool result;
